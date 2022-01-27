@@ -17,7 +17,7 @@ import org.eclipse.example.calc.internal.operations.Equals;
 import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
-
+//TestComment
 public class Calculator {
 
 	private TextProvider textProvider;
